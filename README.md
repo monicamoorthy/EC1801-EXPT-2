@@ -9,7 +9,7 @@ To design, implement, and verify the functionality of basic AND, OR, and NOT log
 •	Linux Terminal<br>
 •	Verilog HDL<br><br>
 
-# Boolean Functio0n
+# Boolean Function
 The basic logic gates realize the following Boolean functions:<br><br>
 
 •	AND: Y_AND = A . B<br>
