@@ -141,7 +141,11 @@ Output<br><br>
 •	Why is a VCD file generated?
 
 •	What is the purpose of ./simv?
+
 •	What is the purpose of DVE?
+
 •	What is the difference between simulation and synthesis?
+
 •	What is the difference between $dumpfile and $dumpvars?
+
 
